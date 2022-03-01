@@ -1,2 +1,1 @@
-# Proyecto_Final_AR
-Proyecto Final Alexis Ramirez
+# Proyecto_AR_Temporal
